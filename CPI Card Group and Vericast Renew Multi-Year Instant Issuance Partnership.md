@@ -1,0 +1,13 @@
+**CPI Card Group** has announced the renewal of its multi-year service agreement with Vericast, extending a strategic relationship between the two companies that is now entering its 24th year. Under the renewed terms, CPI will continue as Vericast's preferred supplier for payment solutions, covering both physical cards and integrated payment technology such as its Card@Once instant issuance platform.
+
+The timing of the renewal reflects a broader shift in consumer expectations, as financial institutions increasingly look for ways to deliver convenience, security, and immediate account access to their customers. Instant issuance has become a key tool in meeting that demand, allowing banks and credit unions to hand customers an activated, personalized card on the spot rather than making them wait days or weeks for one to arrive by mail.
+
+Vericast's ties to this technology run deep. The company was among the very first resellers to offer Card@Once when it debuted back in 2011 as the market's first SaaS-based instant issuance solution, and it has played a significant role in helping extend the technology to financial institutions of all sizes ever since. Through the partnership, banks and credit unions gain both the flexibility and scalability of instant issuance, along with access to centralized personalization and fulfillment services covering physical credit, debit, and gift card programs.
+
+The renewal comes on the heels of other recent moves by CPI to expand its footprint in the issuance space, including its acquisition of the TRISM on premise instant issuance platform, which has broadened the company's addressable market to include larger financial institutions seeking on-premise alternatives alongside cloud-based options. Company leadership has also pointed to the Vericast relationship specifically as a cornerstone of its Integrated Paytech segment, noting that Vericast serves roughly 60% of U.S. commercial banks and credit unions underscoring just how much reach this renewed partnership carries across the industry.
+
+For financial institutions already working with Vericast, the continuation of this relationship means uninterrupted access to the instant issuance and card personalization infrastructure they rely on, with CPI's technology continuing to sit at the core of that offering.
+
+Discover [**FinTech News**](https://financetech-news.com/) for the latest updates on financial innovation and revenue-driven technology.
+
+Read related news - [https://financetech-news.com/bankpro-launches-premium-cards-with-thredd/](https://financetech-news.com/bankpro-launches-premium-cards-with-thredd/)
